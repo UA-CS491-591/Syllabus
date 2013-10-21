@@ -18,8 +18,6 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
 * Tests
   * [Midterm - Mar. 13, 2014](#midterm)
   * [Final Exam - May 5, 2014](#final-exam)
-* 
-
 
 ## Class Structure
 
