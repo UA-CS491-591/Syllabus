@@ -1,3 +1,5 @@
+![Screenshot](https://raw.github.com/UA-CS493/Syllabus/master/Resources/Images/header.png)
+
 Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software (CS 493)
 ========
 
