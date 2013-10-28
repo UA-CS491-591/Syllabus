@@ -66,4 +66,42 @@ Issues are an auxilliary part of the GitHub platform; a separate tool built to b
 
 **Due: Jan. 15, 2014**
 
-**[Assignment 1 Link](https://github.com/UA-CS493/Assignment1)**
+**[Assignment 1 Link](https://github.com/UA-CS493/Assignment-1)**
+
+Your task is to create a scalable and maintanle class diagram of the Human Body in Java. This doesn't just mean a class for the head, a class for the torso, and classes for each leg - get as low level with the structures and relations as possible. For instance, here's a sketch of a few properties about the Heart.
+
+## Assignment 2
+
+**Coming Soon**
+
+## Assignment 3
+
+**Coming Soon**
+
+## Assignment 4
+
+**Coming Soon**
+
+## Assignment 5
+
+**Coming Soon**
+
+## Assignment 6
+
+**Coming Soon**
+
+## Assignment 7
+
+**Coming Soon**
+
+## Assignment 8
+
+**Coming Soon**
+
+## Midterm
+
+The midterm is 1000 questions, multiple-choice, and must be completed in class to receive credit. I will open the repository to answer questions on your own paper at class time. You will have 50 minutes to complete the midterm. Good luck.
+
+## Final Exam
+
+The final exam is a hybrid project/test assignment with most work being done by yourself before the exam begins, then during the exam period, working with two randomly assigned group members to finish the project with any tricks I throw in at class time. Good luck, and have a great Summer!
