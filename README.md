@@ -33,8 +33,10 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
      * [Methods in Objc](#methods-in-objc) +,-,public,private,no parameter,single parameter,calling
      * [Includes](#includes)
   * [iOS SDK Basics](#ios-sdk-basics)
-     * [] 
-     * [Data Structures](#data-structures) - NSArray, NSDictionary (NSSet) 
+     * [Primitives](#primitives) - int,float,double,char, short, long
+     * [SDK Primitive Aliases](#sdk-primitive-aliases) - NSInteger, CGFloat
+     * [Data Structures](#data-structures) - NSArray, NSDictionary (NSSet)
+     * 
   * [](#)
   * [](#)
   * [](#)
