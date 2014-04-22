@@ -52,11 +52,6 @@ The bulk of this class will be entirely run on the GitHub platform. GitHub is a 
 
 First things first - you have to have a GitHub account. No account, no grade. You can create a free account by clicking the sign up button in the top-right of the browser window. Don't read any further until you have created your account.
 
-**What you're graded on**
-* 8 Assignments (40% of your grade)
-* 2 Tests (60% of your grade)
-
-That's it. There are no papers and no extra-credit.
 
 ## About the Assignments
 
