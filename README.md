@@ -7,19 +7,40 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
 
 ## Table of Contents
 * [Class Structure](#class-structure)
-* Assignments
-  * [About](#about-the-assignments)
-  * [Assignment 1 - due Jan. 15, 2014](#assignment-1)
-  * [Assignment 2 - due Jan. 28, 2014](#assignment-2)
-  * [Assignment 3 - due Feb. 8, 2014](#assignment-3)
-  * [Assignment 4 - due Feb. 19, 2014](#assignment-4)
-  * [Assignment 5 - due Mar. 1, 2014](#assignment-5)
-  * [Assignment 6 - due Mar. 13, 2014](#assignment-6)
-  * [Assignment 7 - due Apr. 7, 2014](#assignment-7)
-  * [Assignment 8 - due Apr. 23, 2014](#assignment-8)
-* Tests
-  * [Midterm - Mar. 13, 2014](#midterm)
-  * [Final Exam - May 5, 2014](#final-exam)
+* Topics
+  * [Mac Crash Course](#mac-crash-course) -History,core,apps,navigation
+  * [Git and Github](#git-and-github)
+     * [Git Basics](#git-basics) -dvcs,repositories,line change tracking, the origin
+     * [Git Usage](#git-usage) -push,pull,clone,commit
+     * [More Git](#more-git) -ignore, branch/merge, gitflow, tagging, stashing
+     * [Github Basics](#github-basics) -registration,star,fork, watch, trending, gists, collaborators, readme/markdown, repository creation/rename/deletion, issue tracking
+     * [Github Best Practices](#github-best-practices) -releasing, semantic versioning, being considerate
+     * [SourceTree](#sourcetree) -installing,connecting github (or any .git endpoint),using sourcetree,
+     * [Other Technologies](#other-technologies) SVN,mercurial,tfs
+  * [IDE Basics](#ide-basics)
+     * [Installation and Setup](#installation-and-setup)
+     * [First App](#first app)
+     * [Getting Around](#getting-around) - editor,project nav,console,debugger
+     * [Project Structure](#project-structure) - mvc,entry points, good organization,searching,theming,resources,virtual folders
+  * [OOP Basics](#oop-basics)
+     * [Classes and Objects](#classes-and-objects)
+     * [Inheritance](#inheritance)
+     * [Variables](#variables) - private, public
+     * [Methods](#methods) - static,non-static,inherited(overrrided methods)
+  * [Objective-C](#objective-c)
+     * [Class Structure](#class-structure) -.h,.m,interface
+     * [Variables and Properties](#variables-and-properties)
+     * [Methods in Objc](#methods-in-objc) +,-,public,private,no parameter,single parameter,calling
+     * [Includes](#includes)
+  * [iOS SDK Basics](#ios-sdk-basics)
+     * [] 
+     * [Data Structures](#data-structures) - NSArray, NSDictionary (NSSet) 
+  * [](#)
+  * [](#)
+  * [](#)
+  * [Guest Speaker](#guest-speaker)
+  * [Android Dev](#android-dev)
+  * [Deploying Apps](#deploying-apps)
 
 ## Class Structure
 
@@ -61,47 +82,3 @@ A Pull Request is the process of merging the changes in your forked repository i
 **GitHub Issues**
 
 Issues are an auxilliary part of the GitHub platform; a separate tool built to be used in conjunction with Git. We are going to use Issues in this class to provide feedback on assignments, ask for help on assignments, and to show where in your commit history you were doing good things, or where things went wrong. This is an extremely helpful tool for collaboration as you will see in your group assignments in this class.
-
-## Assignment 1
-
-**Due: Jan. 15, 2014**
-
-**[Assignment 1 Link](https://github.com/UA-CS493/Assignment-1)**
-
-Your task is to create a scalable and maintanle class diagram of the Human Body in Java. This doesn't just mean a class for the head, a class for the torso, and classes for each leg - get as low level with the structures and relations as possible. For instance, here's a sketch of a few properties about the Heart.
-
-## Assignment 2
-
-**Coming Soon**
-
-## Assignment 3
-
-**Coming Soon**
-
-## Assignment 4
-
-**Coming Soon**
-
-## Assignment 5
-
-**Coming Soon**
-
-## Assignment 6
-
-**Coming Soon**
-
-## Assignment 7
-
-**Coming Soon**
-
-## Assignment 8
-
-**Coming Soon**
-
-## Midterm
-
-The midterm is 1000 questions, multiple-choice, and must be completed in class to receive credit. I will open the repository to answer questions on your own paper at class time. You will have 50 minutes to complete the midterm. Good luck.
-
-## Final Exam
-
-The final exam is a hybrid project/test assignment with most work being done by yourself before the exam begins, then during the exam period, working with two randomly assigned group members to finish the project with any tricks I throw in at class time. Good luck, and have a great Summer!
