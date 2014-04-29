@@ -37,13 +37,18 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
      * [SDK Primitive Aliases](#sdk-primitive-aliases) - NSInteger, CGFloat
      * [Data Structures](#data-structures) - NSArray, NSDictionary, NSSet
      * 
+  * [GCD, Concurrency and blocks](#gcd-concurrency-and-concurrency)
+     * [Anatomy of an App](#anatomy-of-an-app)
+     * [Blocks](#callbacks) http://rypress.com/tutorials/objective-c/blocks.html
+     * [Basic Async Tasks](#basic-async-tasks)
+     * [Callbacks](#callbacks)
   * [Testing](#testing)
      * [Why We Test](#why-we-test)
      * [Assertions](#basic-assertions)
      * [Library Testing Example (DateTools)](#library-testing-example-(datetools))
      * [Testing UI Components](#testing-ui-components)
-  * [](#)
-  * [](#)
+  * [Third Party Libraries](#third-party-libraries)
+  * [Cocoa-Pods](#)
   * [Guest Speaker](#guest-speaker)
   * [Android Dev](#android-dev)
   * [Deploying Apps](#deploying-apps)
