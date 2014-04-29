@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.github.com/UA-CS493/Syllabus/master/Resources/Images/header.png)
 
-Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software (CS 493)
+Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software (CS 491/591)
 ========
 
 The class syllabus lives here. Make sure to watch this repository so you can be notified if things change. You can click the little eye at the top of the page to change your settings so you receive email notifications if things change. This class is highly experimental in its techniques and class structure, but is actually very modern in its approach to using the current and respected tools of the day for efficient and maintainable software engineering practices. Below you will find the meta about the class as well as a tentative schedule of assignments and tests. Happy Coding!
