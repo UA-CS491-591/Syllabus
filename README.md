@@ -35,9 +35,13 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
   * [iOS SDK Basics](#ios-sdk-basics)
      * [Primitives](#primitives) - int,float,double,char, short, long
      * [SDK Primitive Aliases](#sdk-primitive-aliases) - NSInteger, CGFloat
-     * [Data Structures](#data-structures) - NSArray, NSDictionary (NSSet)
+     * [Data Structures](#data-structures) - NSArray, NSDictionary, NSSet
      * 
-  * [](#)
+  * [Testing](#testing)
+     * [Why We Test](#why-we-test)
+     * [Assertions](#basic-assertions)
+     * [Library Testing Example (DateTools)](#library-testing-example-(datetools))
+     * [Testing UI Components](#testing-ui-components)
   * [](#)
   * [](#)
   * [Guest Speaker](#guest-speaker)
