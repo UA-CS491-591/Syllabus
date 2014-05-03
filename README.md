@@ -38,7 +38,7 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
      * [SDK Primitive Aliases](#sdk-primitive-aliases) - NSInteger, CGFloat
      * [Data Structures](#data-structures) - NSArray, NSDictionary, NSSet
      * [Other Foundation Classes](#other-foundation-classes) NSDate,
-  * [UIKit Basics]
+  * [UIKit Basics](#uikit-basics)
      * [View Hierarchy](#view-hierarchy)
      * [No Storyboards](#no-storyboards)
      * [No Nibs](#no-nibs)
