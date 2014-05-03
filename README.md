@@ -32,27 +32,50 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
      * [Variables and Properties](#variables-and-properties) http://rypress.com/tutorials/objective-c/properties.html
      * [Methods in Objc](#methods-in-objc) +,-,public,private,no parameter,single parameter,calling
      * [Includes](#includes)
+     * [Protocols](#protocols)
   * [iOS SDK Basics](#ios-sdk-basics)
      * [Primitives](#primitives) - int,float,double,char, short, long 
      * [SDK Primitive Aliases](#sdk-primitive-aliases) - NSInteger, CGFloat
      * [Data Structures](#data-structures) - NSArray, NSDictionary, NSSet
-     * [Other Foundation Classes](#other-foundation-classes)
-     * []
+     * [Other Foundation Classes](#other-foundation-classes) NSDate,
+  * [UIKit Basics]
+     * [View Hierarchy](#view-hierarchy)
+     * [No Storyboards](#no-storyboards)
+     * [No Nibs](#no-nibs)
+     * [Animations](#animations)
+     * [Event Handling](#event-handling) Through nib and code only
+     * [Navigation](#navigation)
   * [GCD, Concurrency and blocks](#gcd-concurrency-and-concurrency)
      * [Anatomy of an App](#anatomy-of-an-app)
      * [Blocks](#callbacks) http://rypress.com/tutorials/objective-c/blocks.html
      * [Basic Async Tasks](#basic-async-tasks)
      * [Callbacks](#callbacks)
+     * [NSOperationQueue](#nsoperationqueue)
+  * [Web Programming](#web-programming)
+     * [Project API Introduction](#project-api-introduction)
+     * [Basic Web Calls](#basic-web-calls)
+     * [NSObject+ObjectMap](#nsobject+objectmap)
   * [Testing](#testing)
      * [Why We Test](#why-we-test)
      * [Assertions](#basic-assertions)
      * [Library Testing Example (DateTools)](#library-testing-example-(datetools))
      * [Testing UI Components](#testing-ui-components)
+  * [Maps](#maps)
+     * [Setup](#setup)
+     * [Basics](#basics) zooming,panning,tilting,map types,(reverse) geocoding,
+     * [Render Hierarchy](#render-hierarchy)
+     * [Annotations](#annotations)
+     * [Layers](#layers)
+  * [URI Schemes](#URI-Schemes)
   * [Third Party Libraries](#third-party-libraries)
-  * [Cocoa-Pods](#)
+  * [Cocoapods](#cocoapods)
   * [Guest Speaker](#guest-speaker)
   * [Android Dev](#android-dev)
   * [Deploying Apps](#deploying-apps)
+     * [ItunesConnect](#itunes-connect)
+     * [Archiving](#archiving)
+     * [Analytics](#analytics)
+  * [Resources](#resources) 
 
 ## Class Structure
 
@@ -89,3 +112,21 @@ A Pull Request is the process of merging the changes in your forked repository i
 **GitHub Issues**
 
 Issues are an auxilliary part of the GitHub platform; a separate tool built to be used in conjunction with Git. We are going to use Issues in this class to provide feedback on assignments, ask for help on assignments, and to show where in your commit history you were doing good things, or where things went wrong. This is an extremely helpful tool for collaboration as you will see in your group assignments in this class.
+
+
+##Resources
+ Below are a list of blogs and tutorials that you may find helpful in learning objective-c
+ 
+ ####Language
+ [Rypress Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
+ 
+ ####Platform
+ [Ray Wenderlich Tutorials](http://www.raywenderlich.com/tutorials)
+ [Appcoda Tutorials - No Storyboards](http://www.appcoda.com/ios-programming-course/)
+ [Tutorials Point](http://www.tutorialspoint.com/ios/index.htm)
+ 
+Also, </b>[StackOverflow](http://stackoverflow.com/) is your best friend.</b> Google "iphone sdk" then whatever your question is for best results.
+ 
+ ####More Advanced
+ [Objec.io](http://www.objc.io/)
+ [NSHipster](http://nshipster.com/)
