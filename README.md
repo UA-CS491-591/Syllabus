@@ -117,18 +117,18 @@ Issues are an auxilliary part of the GitHub platform; a separate tool built to b
 
 
 ##Resources
- Below are a list of blogs and tutorials that you may find helpful in learning objective-c
+Below are a list of blogs and tutorials that you may find helpful in learning objective-c
  
- ####Language
- [Rypress Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
+#### Language
+* [Rypress Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
  
- ####Platform
- [Ray Wenderlich Tutorials](http://www.raywenderlich.com/tutorials)
- [Appcoda Tutorials - No Storyboards](http://www.appcoda.com/ios-programming-course/)
- [Tutorials Point](http://www.tutorialspoint.com/ios/index.htm)
+#### Platform
+* [Ray Wenderlich Tutorials](http://www.raywenderlich.com/tutorials)
+* [Appcoda Tutorials - No Storyboards](http://www.appcoda.com/ios-programming-course/)
+* [Tutorials Point](http://www.tutorialspoint.com/ios/index.htm)
  
-Also, </b>[StackOverflow](http://stackoverflow.com/) is your best friend.</b> Google "iphone sdk" then whatever your question is for best results.
+Also, **[StackOverflow](http://stackoverflow.com/) is your best friend.** Google "iphone sdk" then whatever your question is for best results.
  
- ####More Advanced
- [Objec.io](http://www.objc.io/)
- [NSHipster](http://nshipster.com/)
+#### More Advanced
+* [ObjC.io](http://www.objc.io/)
+* [NSHipster](http://nshipster.com/)
