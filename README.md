@@ -12,6 +12,8 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
 * Topics
   * [Mac Crash Course](#mac-crash-course) -History,core,apps,navigation
   * [Git and Github](#git-and-github)
+     * [Why we use VCS](#why-we-use vcs) - changes, sharing, tracking, versioning
+     * [VCS Options](#vcs-options) - CVCS:SVN,TFS DVCS:git,mercurial,bazaar
      * [Git Basics](#git-basics) -dvcs,repositories,line change tracking, the origin
      * [Git Usage](#git-usage) -push,pull,clone,commit
      * [More Git](#more-git) -ignore, branch/merge, gitflow, tagging, stashing
@@ -115,6 +117,30 @@ A Pull Request is the process of merging the changes in your forked repository i
 
 Issues are an auxilliary part of the GitHub platform; a separate tool built to be used in conjunction with Git. We are going to use Issues in this class to provide feedback on assignments, ask for help on assignments, and to show where in your commit history you were doing good things, or where things went wrong. This is an extremely helpful tool for collaboration as you will see in your group assignments in this class.
 
+
+##Git and Github
+
+
+####Why We Use VCS
+- changes, sharing, tracking, versioning
+
+ 
+####VCS Options
+- CVCS:SVN,TFS DVCS:git,mercurial,bazaar
+
+
+####Git Basics
+-dvcs,repositories,line change tracking, the origin
+
+
+####Git Usage 
+-push,pull,clone,commit
+
+####More Git
+-ignore, branch/merge, gitflow, tagging, stashing
+
+####Github Basics
+-registration,star,fork, watch, trending, gists, collaborators, readme/markdown,
 
 ##Resources
 Below are a list of blogs and tutorials that you may find helpful in learning objective-c
