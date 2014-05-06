@@ -139,6 +139,8 @@ Issues are an auxilliary part of the GitHub platform; a separate tool built to b
 ####More Git
 -ignore, branch/merge, gitflow, tagging, stashing
 
+[Gitflow](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ####Github Basics
 -registration,star,fork, watch, trending, gists, collaborators, readme/markdown,
 
