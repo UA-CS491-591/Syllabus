@@ -32,13 +32,13 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
      * [Variables](#variables) - private, public
      * [Methods](#methods) - static,non-static,inherited(overrrided methods)
   * [Objective-C](#objective-c)
-     * [Class Structure](#class-structure) -.h,.m,interface
+     * [Class Structure](#class-structure) -.h,.m,interface, implementation
      * [Variables and Properties](#variables-and-properties) http://rypress.com/tutorials/objective-c/properties.html
+     * [Primitives](#primitives) - int,float,double,char, short, long 
      * [Methods in Objc](#methods-in-objc) +,-,public,private,no parameter,single parameter,calling
-     * [Includes](#includes)
+     * [Imports](#imports)
      * [Protocols](#protocols)
   * [iOS SDK Basics](#ios-sdk-basics)
-     * [Primitives](#primitives) - int,float,double,char, short, long 
      * [SDK Primitive Aliases](#sdk-primitive-aliases) - NSInteger, CGFloat
      * [Data Structures](#data-structures) - NSArray, NSDictionary, NSSet
      * [Other Foundation Classes](#other-foundation-classes) NSDate,
