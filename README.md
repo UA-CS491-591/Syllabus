@@ -56,8 +56,23 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
      * [Callbacks](#callbacks)
      * [NSOperationQueue](#nsoperationqueue)
   * [Web Programming](#web-programming)
-     * [Project API Introduction](#project-api-introduction)
+     * [The need for communication](#the-need-for-communication)
+     * [The Internet Protocol Suite](#the-internet-protocol-suite)
+     * [HTTP/HTTPS](#https/https)
+     * [Ports](#ports) http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+     * [HTTP Request](#http requests)
+        * [URL](#url)
+        * [Verbs](#verbs) GET,POST,PUT,DELETE
+        * [Headers](#headers) http://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+        * [Body](#body)
      * [Basic Web Calls](#basic-web-calls)
+     * [Project API Reintroduction](#project-api-reintroduction)
+        * [Web Methods](#web-methods)
+        * [URL Breakdown](#url-breakdown)
+        * [Data Interchange Languages](#data interchange languages) or "Organizing things in the message body"
+           * [Why](#why)
+           * [Popular Formats](#popular-formats)
+           * [Breaking Down JSON](#breaking-down-json)
      * [NSObject+ObjectMap](#nsobject+objectmap)
   * [Testing](#testing)
      * [Why We Test](#why-we-test)
