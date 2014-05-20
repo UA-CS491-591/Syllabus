@@ -159,6 +159,21 @@ Issues are an auxilliary part of the GitHub platform; a separate tool built to b
 ####Github Basics
 -registration,star,fork, watch, trending, gists, collaborators, readme/markdown,
 
+##Deploying Apps
+
+####Apple Developer Site
+
+[https://developer.apple.com/](https://developer.apple.com/)
+
+The developer site handles signing of apps and provisioning devices
+
+####Itunes Connect
+
+[https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa
+)
+
+Itunes Connect handles deployment and app store analytics/management.
+
 ##Resources
 Below are a list of blogs and tutorials that you may find helpful in learning objective-c
  
