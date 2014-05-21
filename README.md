@@ -90,6 +90,19 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
   * [Cocoapods](#cocoapods)
   * [Guest Speaker](#guest-speaker)
   * [Android Dev](#android-dev)
+     * [Android Studio](#android-studio)
+     * [Java](#java)
+     * [GenyMotion](#genymotion)
+     * [SDK Management](#sdk-management)
+     * [Hello World](#hello-world)
+     * [MVC in Android](#mvc-in-android)
+     * [Activities/Fragments](#activities/fragments)
+        * [Activity Lifecycle](#activity-lifecycle) http://i.stack.imgur.com/rVnSi.png
+        * [Fragment Lifecycle](#fragment-lifecycle) http://i.stack.imgur.com/cJ3QW.png
+     * [Async Tasks](#async-tasks)
+     * [Navigation](#navigation)
+     * [Libraries (Jars and Modules)](#libraries-(jars-and-modules))
+     * [Resource Files](#resource-files)
   * [Deploying Apps](#deploying-apps)
      * [ItunesConnect](#itunes-connect)
      * [Archiving](#archiving)
@@ -158,6 +171,8 @@ Issues are an auxilliary part of the GitHub platform; a separate tool built to b
 
 ####Github Basics
 -registration,star,fork, watch, trending, gists, collaborators, readme/markdown,
+
+##Android Dev
 
 ##Deploying Apps
 
