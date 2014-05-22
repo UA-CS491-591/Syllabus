@@ -88,7 +88,7 @@ The class syllabus lives here. Make sure to watch this repository so you can be 
   * [URI Schemes](#URI-Schemes)
   * [Third Party Libraries](#third-party-libraries)
   * [Cocoapods](#cocoapods)
-  * [Guest Speaker](#guest-speaker)
+  * [Art and Design](#art-and-design)
   * [Android Dev](#android-dev)
      * [Android Studio](#android-studio)
      * [Java](#java)
@@ -188,6 +188,10 @@ The developer site handles signing of apps and provisioning devices
 )
 
 Itunes Connect handles deployment and app store analytics/management.
+
+##Art and Design
+
+A primer on art and design in apps and in general can be found in the [Artsy Fartsy](https://github.com/UA-CS491-591/ArtsyFartsy) repository.
 
 ##Resources
 Below are a list of blogs and tutorials that you may find helpful in learning objective-c
